@@ -1,0 +1,5 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\symbol\obj\Debug\net7.0\symbol.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\symbol\obj\Debug\net7.0\symbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\symbol\obj\Debug\net7.0\symbol.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\symbol\obj\Debug\net7.0\symbol.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\symbol\obj\Debug\net7.0\symbol.csproj.CoreCompileInputs.cache

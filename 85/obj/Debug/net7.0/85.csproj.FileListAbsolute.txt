@@ -1,0 +1,15 @@
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\bin\Debug\net7.0\85.exe
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\bin\Debug\net7.0\85.deps.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\bin\Debug\net7.0\85.runtimeconfig.json
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\bin\Debug\net7.0\85.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\bin\Debug\net7.0\85.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\85.csproj.AssemblyReference.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\85.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\85.AssemblyInfoInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\85.AssemblyInfo.cs
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\85.csproj.CoreCompileInputs.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\85.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\refint\85.dll
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\85.pdb
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\85.genruntimeconfig.cache
+C:\Users\melih\Desktop\гик\c#\МАЮ\семинар 6.12\introductionC.6.12\85\obj\Debug\net7.0\ref\85.dll
